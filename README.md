@@ -1,3 +1,5 @@
+web-test2
+
 A test project.
 
 After cloning this project run npm install to install all the dependencies.

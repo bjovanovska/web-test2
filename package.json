@@ -1,22 +1,22 @@
 {
   "name": "web-test2",
   "version": "1.0.0",
-  "description": "A test project.",
+  "description": "Test project",
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "dev": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bjovanovska/web-test2.git"
+    "url": "git+https://github.com/bjovanovska/web-test.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "bojana jovanovska",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bjovanovska/web-test2/issues"
+    "url": "https://github.com/bjovanovska/web-test/issues"
   },
-  "homepage": "https://github.com/bjovanovska/web-test2#readme",
+  "homepage": "https://github.com/bjovanovska/web-test#readme",
   "devDependencies": {
     "copy-webpack-plugin": "^5.0.4",
     "css-loader": "^3.2.0",
@@ -26,7 +26,7 @@
     "sass-loader": "^8.0.0",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "url-loader": "^2.2.0",
-    "webpack": "^4.41.2",
+    "webpack": "^4.41.0",
     "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.8.2"
   }

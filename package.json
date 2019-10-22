@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bjovanovska/web-test.git"
+    "url": "git+https://github.com/bjovanovska/web-test2.git"
   },
   "author": "bojana jovanovska",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bjovanovska/web-test/issues"
+    "url": "https://github.com/bjovanovska/web-test2.git"
   },
-  "homepage": "https://github.com/bjovanovska/web-test#readme",
+  "homepage": "https://github.com/bjovanovska/web-test2#readme",
   "devDependencies": {
     "copy-webpack-plugin": "^5.0.4",
     "css-loader": "^3.2.0",

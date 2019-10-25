@@ -1,2 +1,2 @@
 import './scss/main.scss';
-import './scripts/ui.js';
+import {myFunction} from  './scripts/ui.js';

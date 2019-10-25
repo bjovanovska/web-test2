@@ -1,8 +1,2 @@
-button {
-  background-color: red;
-}
-
-h1 {
-  font-style: normal;
-  font-size: 20px;
-}
+@import './pages/login.scss';
+@import './common/header.scss'
